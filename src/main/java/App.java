@@ -4,6 +4,6 @@ public class App {
 	
 	public String Sample() {
 		
-		return "first prgm";
+		return "first prgm is good";
 	}
 }
